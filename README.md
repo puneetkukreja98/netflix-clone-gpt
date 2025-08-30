@@ -6,6 +6,11 @@
     - Routing
     - Login
     - Sign up
+    - use ref hook
+    - Form validation
+    - Firebase setup
+    - Deploying
+    
 
 # Features
 
